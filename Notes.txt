@@ -7,3 +7,5 @@ If you need to place a function within a function, traditional functions are use
 
 
 A forEach loop works only with arrays
+
+Stopped at 11.6.1 Create the Table Filter
