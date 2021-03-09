@@ -1,2 +1,9 @@
 Statements perform actions.
 Expressions create values.
+
+console.log is javascript's version of a print statement. 
+
+If you need to place a function within a function, traditional functions are used. 
+
+
+A forEach loop works only with arrays
