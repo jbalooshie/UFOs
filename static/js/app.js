@@ -22,6 +22,7 @@ function buildTable(data) {
         }
       );
     });
+  }
 
 function handleClick() {
     // Grab the datetime value from the filter
