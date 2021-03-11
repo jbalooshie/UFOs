@@ -15,5 +15,6 @@ A forEach loop works only with arrays
 	<label for="date">Enter Date</label> ## This is the label for the element that contains the search parameter
        	<input type="text" placeholder="1/10/2010" id="datetime" /> ## This is the input element. ID is the property of each element in the dataset. 
 
-Something is happening that prevents the dateFilter variable from being written into the filters array. Then when we go to call it on line 114 it says it is not defined (uncaught reference error). Possibly due to it being declared within the function? 
+
+
 
