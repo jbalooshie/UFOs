@@ -8,8 +8,8 @@ The page itself is built in an html file. An app is created using JavaScript tha
 ## Results
 To use the webpage, start by opening the index.html file. Scroll down until you see the start of the table. You will see the filter options to the left of the table. To filter the table, simply enter the desired criteria you would like to see results for. Placeholder values have been provided if you are unsure of what to enter. Below are two images. The first shows the table with the filters, with only the placeholder values. The second shows the table filtered to show UFO sightings in the city of el cajon. 
 
-![Filter Options](tree/main/static/images/image_1.png)
-![Filtered Table](tree/main/static/images/image_2.png)
+![Filter Options](static/images/image_1.PNG)
+![Filtered Table](static/images/image_2.PNG)
 
 ## Summary
 To close out the report, we will review one of the drawbacks of this page, and provide two recommendations for how it could be improved in the future. 
