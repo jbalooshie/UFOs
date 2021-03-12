@@ -15,7 +15,6 @@ To use the webpage, start by opening the index.html file. Scroll down until you 
 To close out the report, we will review one of the drawbacks of this page, and provide two recommendations for how it could be improved in the future. 
 ###Drawbacks
 Right now, the fitlers will only accept lowercase value to correctly filter. For example, entering "benton" into the city filter will bring up a sighting that occured in Benton, CA. However, entering "Benton" will not bring up this sighting. This might be confusing for users looking for a specific sighting. It is normal to capitalize city, state, and country names. There are a couple of ways we can fix this. We can add a note that reminds the user to enter their search criteria in all lowercase. Or we could refind the code to look for close matches instead of an exact match. The latter would be preferable, since it doesn't rely on the user following special instructions to use the table. 
-
 ###Recommendations
 1. Currently there is no way to search the duration and comments fields on the table. This would be helpful if someone was looking for sightings of a certain length, or just to find sightings with common descriptions. Both of these would be more difficult to implement, since the data is not as uniform. For example, some of the sightings have exact durations listed (6 minutes), while others are less precise (dawn until dusk). 
 
