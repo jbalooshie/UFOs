@@ -1,9 +1,12 @@
 # UFOs
+This repository was created as part of a 6 month Data Analystics Bootcamp administed by George Washington University. This is the repository for the Module 10 Challenge. This challenge covered beginner to intermediate JavaScript topics. Final project work is in index.html.
+
+To view, please colone the repo and open the html file in your browser. Project was updated 27 SEP 2022 to add a .gitignore. 
 
 ## Overview of Project
-The purpose of this analysis is to build an easy to read and filter table. The table contains information about UFO sightings around the world, and can then be filtered to a specific Date, City, State, Country, or UFO shape. The table is presented on a tidy HTML page that can be shared with other UFO enthusiasts. In addition to the table, the page contains a title, banner image, and short article containing comments from various sources. 
+The purpose of this project is to build an easy to read and filter table using JavaScript. The table contains information about UFO sightings around the world, and can then be filtered to a specific Date, City, State, Country, or UFO shape. The table is presented on a tidy HTML page that can be shared with other UFO enthusiasts. In addition to the table, the page contains a title, banner image, and short article containing comments from various sources. 
 
-The page itself is built in an html file. An app is created using JavaScript that will pull information on UFO sightings from a source file, display the data, and filter it as various parameters are entered. Finally, Bootstrap was used to make the page pleasing to the eyes, and also scale depending on the type of device you are using to view it. 
+The page itself is built from a HTML file. An app is created using JavaScript that will pull information on UFO sightings from a source file, display the data, and filter it as various parameters are entered. Finally, Bootstrap was used to make the page pleasing to the eyes, and also scale depending on the type of device you are using to view it. 
 
 ## Results
 To use the webpage, start by opening the index.html file. Scroll down until you see the start of the table. You will see the filter options to the left of the table. To filter the table, simply enter the desired criteria you would like to see results for. Placeholder values have been provided if you are unsure of what to enter. Below are two images. The first shows the table with the filters, with only the placeholder values. The second shows the table filtered to show UFO sightings in the city of el cajon. 
